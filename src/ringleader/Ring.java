@@ -65,6 +65,7 @@ public class Ring {
 			competitor[i] = true;
 		}
 		int d;
+		PlaceHLAPI elected, notelected;
 		PlaceHLAPI repl, repr;
 		boolean left, right;
 		Result tmpl, tmpr;
@@ -82,13 +83,29 @@ public class Ring {
 			
 			if (reduced) {
 				for (int i=0; i<nb; i++) {
-					pcs[i] = new ReducedProcess(page,ids[i],dim/nb/2+i*dim/nb,20,rmax,dim/nb/2);
+					pcs[i] = new ReducedProcess(page,ids[i],dim/nb/2+i*dim/nb,20,dim/nb/2);
 				}
 			} else {
 				for (int i=0; i<nb; i++) {
-					pcs[i] = new Process(page,ids[i],dim/nb/2+i*dim/nb,20,rmax,dim/nb/2);
+					pcs[i] = new Process(page,ids[i],dim/nb/2+i*dim/nb,20,dim/nb/2);
 				}
 			}
+			
+			elected = new PlaceHLAPI("elected",page);
+			NodeGraphicsHLAPI pgyes = new NodeGraphicsHLAPI(elected);
+			PositionHLAPI posyes = new PositionHLAPI(3*dim/4,230+rmax*250,pgyes);
+			DimensionHLAPI dimyes = new DimensionHLAPI(25,25,pgyes);
+			OffsetHLAPI oyes = new OffsetHLAPI(-elected.getId().length()*4/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(elected.getId(),elected)));
+			LineHLAPI lyes = new LineHLAPI(pgyes);
+			lyes.setColorHLAPI(CSS2Color.TEAL);
+			
+			notelected = new PlaceHLAPI("notelected",page);
+			NodeGraphicsHLAPI pgnot = new NodeGraphicsHLAPI(notelected);
+			PositionHLAPI posnot = new PositionHLAPI(dim/4,230+rmax*250,pgnot);
+			DimensionHLAPI dimnot = new DimensionHLAPI(25,25,pgnot);
+			OffsetHLAPI onot = new OffsetHLAPI(-notelected.getId().length()*4/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(notelected.getId(),notelected)));
+			LineHLAPI lnot = new LineHLAPI(pgnot);
+			lnot.setColorHLAPI(CSS2Color.TEAL);
 			
 			for (int r=0; r<rmax; r++) {	
 				
@@ -253,15 +270,16 @@ public class Ring {
 									DimensionHLAPI dimfin = new DimensionHLAPI(25,25,pgfin);
 									OffsetHLAPI ofin = new OffsetHLAPI(-fin.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(fin.getId(),fin)));
 									LineHLAPI lfin = new LineHLAPI(pgfin);
+									lfin.setColorHLAPI(CSS2Color.GRAY);
 									PositionHLAPI posfin = new PositionHLAPI(i*dim/nb,tmpr.get_hdl().getNodegraphicsHLAPI().getPositionHLAPI().getY()+80,pgfin);
 									
 									ArcHLAPI arcl = new ArcHLAPI(tmpl.get_hdl().getId()+"___"+fin.getId(),tmpl.get_hdl(),fin,page);									
 									ArcHLAPI arcr = new ArcHLAPI(tmpr.get_hdl().getId()+"___"+fin.getId(),tmpr.get_hdl(),fin,page);									
 									//System.out.println("-->"+arcl.getId());
 									//System.out.println("-->"+arcr.getId());
-									PlaceHLAPI elt = pcs[(i+nb-1)%nb].get_elected(ids[i],fin);
+									PlaceHLAPI elt = pcs[(i+nb-1)%nb].get_elected(ids[i],fin,elected,notelected);
 									for (int k=2; k<=nb; k++) {
-										elt = pcs[(i+nb-k)%nb].get_elected(ids[i],elt);										
+										elt = pcs[(i+nb-k)%nb].get_elected(ids[i],elt,elected,notelected);										
 									}
 									break; //all done, no more election message
 								}

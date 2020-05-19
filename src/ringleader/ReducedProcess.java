@@ -31,13 +31,9 @@ public class ReducedProcess {
 	protected PlaceHLAPI init;
 	protected TransitionHLAPI start;
 	protected PlaceHLAPI msg;
-	protected PlaceHLAPI elected;
-	protected PlaceHLAPI notelected;
-	protected NodeGraphicsHLAPI pgyes;
-	protected NodeGraphicsHLAPI pgnot;
 	protected List<TransitionHLAPI> rounds = new LinkedList<TransitionHLAPI>();
 
-	public ReducedProcess(PageHLAPI page, int id, int x, int y, int rmax, int half) {
+	public ReducedProcess(PageHLAPI page, int id, int x, int y, int half) {
 		this.id = id;
 		this.half = half;
 		this.page = page;
@@ -70,22 +66,6 @@ public class ReducedProcess {
 			OffsetHLAPI o3 = new OffsetHLAPI(-msg.getId().length()*5-30,-15,new AnnotationGraphicsHLAPI(new NameHLAPI(msg.getId(),msg)));
 			LineHLAPI l3 = new LineHLAPI(pg3);
 			l3.setColorHLAPI(CSS2Color.AQUA);
-			
-			elected = new PlaceHLAPI("elected"+id,page);
-			pgyes = new NodeGraphicsHLAPI(elected);
-			PositionHLAPI posyes = new PositionHLAPI(x-30,y+200+rmax*250,pgyes);
-			DimensionHLAPI dimyes = new DimensionHLAPI(25,25,pgyes);
-			OffsetHLAPI oyes = new OffsetHLAPI(-elected.getId().length()*4/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(elected.getId(),elected)));
-			LineHLAPI lyes = new LineHLAPI(pgyes);
-			lyes.setColorHLAPI(CSS2Color.TEAL);
-
-			notelected = new PlaceHLAPI("notelected"+id,page);
-			pgnot = new NodeGraphicsHLAPI(notelected);
-			PositionHLAPI posnot = new PositionHLAPI(x+30,y+200+rmax*250,pgnot);
-			DimensionHLAPI dimnot = new DimensionHLAPI(25,25,pgnot);
-			OffsetHLAPI onot = new OffsetHLAPI(-notelected.getId().length()*4/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(notelected.getId(),notelected)));
-			LineHLAPI lnot = new LineHLAPI(pgnot);
-			lnot.setColorHLAPI(CSS2Color.TEAL);
 			
 			ArcHLAPI a0 = new ArcHLAPI(init.getId()+"___"+start.getId(),init,start,page);
 			ArcGraphicsHLAPI ag0 = new ArcGraphicsHLAPI(a0);
@@ -158,11 +138,7 @@ public class ReducedProcess {
 			DimensionHLAPI dim = new DimensionHLAPI(25,25,pg);
 			OffsetHLAPI o = new OffsetHLAPI(-election.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(election.getId(),election)));
 			LineHLAPI l = new LineHLAPI(pg);
-			if (r == 0) {
-				l.setColorHLAPI(CSS2Color.OLIVE);
-			} else {
-				l.setColorHLAPI(CSS2Color.MAROON);
-			}
+			l.setColorHLAPI(CSS2Color.GRAY);
 			PositionHLAPI pos = null;
 
 			//setting position of place based on position of source
@@ -200,7 +176,7 @@ public class ReducedProcess {
 			DimensionHLAPI dim = new DimensionHLAPI(25,25,pg);
 			OffsetHLAPI o = new OffsetHLAPI(-reply.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(reply.getId(),reply)));
 			LineHLAPI l = new LineHLAPI(pg);
-			l.setColorHLAPI(CSS2Color.ORANGE);
+			l.setColorHLAPI(CSS2Color.GRAY);
 			PositionHLAPI pos = null;
 
 			//setting position of place based on position of source
@@ -229,7 +205,7 @@ public class ReducedProcess {
 		}
 	}
 	
-	public PlaceHLAPI get_elected(int id, PlaceHLAPI src) {
+	public PlaceHLAPI get_elected(int id, PlaceHLAPI src, PlaceHLAPI yes, PlaceHLAPI not) {
 		//System.out.println("elected("+id+")_"+this.id);
 		try {
 			
@@ -251,7 +227,7 @@ public class ReducedProcess {
 			//System.out.println("-->"+arc2.getId());
 			
 			if (this.id != id) {
-				ArcHLAPI arc = new ArcHLAPI(elected.getId()+"___"+this.notelected.getId(),elected,this.notelected,page);
+				ArcHLAPI arc = new ArcHLAPI(elected.getId()+"___"+not.getId(),elected,not,page);
 				ArcGraphicsHLAPI ag = new ArcGraphicsHLAPI(arc);
 				LineHLAPI agl = new LineHLAPI(ag);
 				agl.setColorHLAPI(CSS2Color.BLACK);
@@ -261,7 +237,7 @@ public class ReducedProcess {
 				DimensionHLAPI dim0 = new DimensionHLAPI(25,25,pg0);
 				OffsetHLAPI o0 = new OffsetHLAPI(-rd.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(rd.getId(),rd)));
 				LineHLAPI l0 = new LineHLAPI(pg0);
-				l0.setColorHLAPI(CSS2Color.NAVY);
+				l0.setColorHLAPI(CSS2Color.GRAY);
 				PositionHLAPI pos0 = new PositionHLAPI(this.x-this.half,src.getNodegraphicsHLAPI().getPositionHLAPI().getY()+60,pg0);
 				
 				ArcHLAPI arc3 = new ArcHLAPI(elected.getId()+"___"+rd.getId(),elected,rd,page);
@@ -270,7 +246,7 @@ public class ReducedProcess {
 				//System.out.println("-->"+arc3.getId());
 				return rd;
 			} else {
-				ArcHLAPI arc = new ArcHLAPI(elected.getId()+"___"+this.elected.getId(),elected,this.elected,page);
+				ArcHLAPI arc = new ArcHLAPI(elected.getId()+"___"+yes.getId(),elected,yes,page);
 				ArcGraphicsHLAPI ag = new ArcGraphicsHLAPI(arc);
 				LineHLAPI agl = new LineHLAPI(ag);
 				agl.setColorHLAPI(CSS2Color.BLACK);

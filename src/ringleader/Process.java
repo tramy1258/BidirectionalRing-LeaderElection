@@ -22,10 +22,8 @@ import java.util.List;
 import java.util.LinkedList;
 public class Process extends ReducedProcess{
 
-	public Process(PageHLAPI page, int id, int x, int y, int rmax, int half) {
-		super(page, id, x, y, rmax, half);
-		this.pgyes.setPositionHLAPI(new PositionHLAPI(x-30,y+200+rmax*350));
-		this.pgnot.setPositionHLAPI(new PositionHLAPI(x+30,y+200+rmax*350));
+	public Process(PageHLAPI page, int id, int x, int y, int half) {
+		super(page, id, x, y, half);
 	}
 	
 	public Result get_handling_election(String dir, int id, int r, int d, PlaceHLAPI src) {
