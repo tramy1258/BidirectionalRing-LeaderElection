@@ -270,7 +270,7 @@ public class Ring {
 									DimensionHLAPI dimfin = new DimensionHLAPI(25,25,pgfin);
 									OffsetHLAPI ofin = new OffsetHLAPI(-fin.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(fin.getId(),fin)));
 									LineHLAPI lfin = new LineHLAPI(pgfin);
-									lfin.setColorHLAPI(CSS2Color.GRAY);
+									lfin.setColorHLAPI(CSS2Color.NAVY);
 									PositionHLAPI posfin = new PositionHLAPI(i*dim/nb,tmpr.get_hdl().getNodegraphicsHLAPI().getPositionHLAPI().getY()+80,pgfin);
 									
 									ArcHLAPI arcl = new ArcHLAPI(tmpl.get_hdl().getId()+"___"+fin.getId(),tmpl.get_hdl(),fin,page);									

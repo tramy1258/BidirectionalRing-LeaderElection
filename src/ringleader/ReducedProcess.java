@@ -138,7 +138,7 @@ public class ReducedProcess {
 			DimensionHLAPI dim = new DimensionHLAPI(25,25,pg);
 			OffsetHLAPI o = new OffsetHLAPI(-election.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(election.getId(),election)));
 			LineHLAPI l = new LineHLAPI(pg);
-			l.setColorHLAPI(CSS2Color.GRAY);
+			l.setColorHLAPI(CSS2Color.MAROON);
 			PositionHLAPI pos = null;
 
 			//setting position of place based on position of source
@@ -176,7 +176,7 @@ public class ReducedProcess {
 			DimensionHLAPI dim = new DimensionHLAPI(25,25,pg);
 			OffsetHLAPI o = new OffsetHLAPI(-reply.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(reply.getId(),reply)));
 			LineHLAPI l = new LineHLAPI(pg);
-			l.setColorHLAPI(CSS2Color.GRAY);
+			l.setColorHLAPI(CSS2Color.ORANGE);
 			PositionHLAPI pos = null;
 
 			//setting position of place based on position of source
@@ -237,7 +237,7 @@ public class ReducedProcess {
 				DimensionHLAPI dim0 = new DimensionHLAPI(25,25,pg0);
 				OffsetHLAPI o0 = new OffsetHLAPI(-rd.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(rd.getId(),rd)));
 				LineHLAPI l0 = new LineHLAPI(pg0);
-				l0.setColorHLAPI(CSS2Color.GRAY);
+				l0.setColorHLAPI(CSS2Color.NAVY);
 				PositionHLAPI pos0 = new PositionHLAPI(this.x-this.half,src.getNodegraphicsHLAPI().getPositionHLAPI().getY()+60,pg0);
 				
 				ArcHLAPI arc3 = new ArcHLAPI(elected.getId()+"___"+rd.getId(),elected,rd,page);
