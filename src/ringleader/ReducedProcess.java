@@ -138,7 +138,11 @@ public class ReducedProcess {
 			DimensionHLAPI dim = new DimensionHLAPI(25,25,pg);
 			OffsetHLAPI o = new OffsetHLAPI(-election.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(election.getId(),election)));
 			LineHLAPI l = new LineHLAPI(pg);
-			l.setColorHLAPI(CSS2Color.MAROON);
+			if (r == 0) {
+				l.setColorHLAPI(CSS2Color.OLIVE);
+			} else {
+				l.setColorHLAPI(CSS2Color.MAROON);
+			}
 			PositionHLAPI pos = null;
 
 			//setting position of place based on position of source
