@@ -219,7 +219,7 @@ public class ReducedProcess {
 			OffsetHLAPI o = new OffsetHLAPI(-elected.getId().length()*5/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(elected.getId(),elected)));
 			LineHLAPI l = new LineHLAPI(pg);
 			l.setColorHLAPI(CSS2Color.NAVY);
-			PositionHLAPI pos = new PositionHLAPI(x-20,src.getNodegraphicsHLAPI().getPositionHLAPI().getY()+10,pg);
+			PositionHLAPI pos = new PositionHLAPI(x,src.getNodegraphicsHLAPI().getPositionHLAPI().getY()+10,pg);
 			
 			ArcHLAPI arc1 = new ArcHLAPI(src.getId()+"___"+elected.getId(),src,elected,page);			
 			ArcHLAPI arc2 = new ArcHLAPI(this.msg.getId()+"___"+elected.getId(),this.msg,elected,page);

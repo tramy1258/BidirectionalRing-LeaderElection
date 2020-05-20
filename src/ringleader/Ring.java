@@ -93,7 +93,7 @@ public class Ring {
 			
 			elected = new PlaceHLAPI("elected",page);
 			NodeGraphicsHLAPI pgyes = new NodeGraphicsHLAPI(elected);
-			PositionHLAPI posyes = new PositionHLAPI(3*dim/4,230+rmax*250,pgyes);
+			PositionHLAPI posyes = new PositionHLAPI(3*dim/4,250+rmax*350,pgyes);
 			DimensionHLAPI dimyes = new DimensionHLAPI(25,25,pgyes);
 			OffsetHLAPI oyes = new OffsetHLAPI(-elected.getId().length()*4/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(elected.getId(),elected)));
 			LineHLAPI lyes = new LineHLAPI(pgyes);
@@ -101,7 +101,7 @@ public class Ring {
 			
 			notelected = new PlaceHLAPI("notelected",page);
 			NodeGraphicsHLAPI pgnot = new NodeGraphicsHLAPI(notelected);
-			PositionHLAPI posnot = new PositionHLAPI(dim/4,230+rmax*250,pgnot);
+			PositionHLAPI posnot = new PositionHLAPI(dim/4,250+rmax*350,pgnot);
 			DimensionHLAPI dimnot = new DimensionHLAPI(25,25,pgnot);
 			OffsetHLAPI onot = new OffsetHLAPI(-notelected.getId().length()*4/2,-30,new AnnotationGraphicsHLAPI(new NameHLAPI(notelected.getId(),notelected)));
 			LineHLAPI lnot = new LineHLAPI(pgnot);
