@@ -1,0 +1,49 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+C.Girault%
+}{%
+C.Girault%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+b1}
+\APACinsertmetastar {%
+b1}%
+\begin{APACrefauthors}%
+C.Girault, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2001}.
+\newblock
+\APACrefbtitle {Petri Nets for Systems Engineering} {Petri nets for systems
+  engineering}.
+\newblock
+\APACaddressPublisher{}{Springer-Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Raynal%
+}{%
+Raynal%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+b2}
+\APACinsertmetastar {%
+b2}%
+\begin{APACrefauthors}%
+Raynal, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Distributed Algorithms for Message-Passing Systems}
+  {Distributed algorithms for message-passing systems}.
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

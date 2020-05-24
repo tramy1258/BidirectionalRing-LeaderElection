@@ -23,8 +23,7 @@ import fr.lip6.move.pnml.framework.utils.exception.OCLValidationFailed;
 import fr.lip6.move.pnml.framework.utils.ModelRepository;
 import java.io.File;
 import java.io.IOException;
-import java.io.FileReader;
-import java.util.Random;
+//import java.util.Random;
 
 public class Ring {
 	

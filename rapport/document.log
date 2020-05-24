@@ -1,0 +1,432 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2020.3.18)  24 MAY 2020 03:45
+entering extended mode
+**./document.tex
+(document.tex
+LaTeX2e <2018-12-01>
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\apacite.sty
+"
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count88
+\bibleftmargin=\skip43
+\bibindent=\skip44
+\bibparsep=\skip45
+\bibitemsep=\skip46
+\biblabelsep=\skip47
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.st
+y"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.s
+ty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathtools
+.sty"
+Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
+ ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count91
+\calc@Cskip=\skip50
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetup.s
+ty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen107
+))
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen108
+) ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks17
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks18
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks19
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count104
+\l_MT_multwidth_dim=\dimen116
+\origjot=\skip54
+\l_MT_shortvdotswithinadjustabove_dim=\dimen117
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen118
+\l_MT_above_intertext_sep=\dimen119
+\l_MT_below_intertext_sep=\dimen120
+\l_MT_above_shortintertext_sep=\dimen121
+\l_MT_below_shortintertext_sep=\dimen122
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty"
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count105
+\mult@box=\box29
+\multicol@leftmargin=\dimen123
+\c@unbalance=\count106
+\c@collectmore=\count107
+\doublecol@number=\count108
+\multicoltolerance=\count109
+\multicolpretolerance=\count110
+\full@width=\dimen124
+\page@free=\dimen125
+\premulticols=\dimen126
+\postmulticols=\dimen127
+\multicolsep=\skip55
+\multicolbaselineskip=\skip56
+\partial@page=\box30
+\last@line=\box31
+\maxbalancingoverflow=\dimen128
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count111
+\c@finalcolumnbadness=\count112
+\last@try=\dimen129
+\multicolovershoot=\dimen130
+\multicolundershoot=\dimen131
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\mc@col@check@num=\count113
+) (document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+\c@maskedRefs=\count114
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\english.apc
+"
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen132
+\scratchbox=\box55
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen133
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks22
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+{C:/Users/DELL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<net1.png, id=10, 185.19188pt x 67.0003pt>
+File: net1.png Graphic file (type png)
+<use net1.png>
+Package pdftex.def Info: net1.png  used on input line 28.
+(pdftex.def)             Requested size: 111.11597pt x 40.20047pt.
+ [2 <./net1.png>]
+Overfull \hbox (3.17603pt too wide) in paragraph at lines 35--71
+ [] \OT1/cmr/m/n/10 A P/T net can be hereby for-mally de-fined as \OT1/cmr/m/it
+/10 a tu-ple $\OMS/cmsy/m/n/10 N \OT1/cmr/m/n/10 = (\OML/cmm/m/it/10 P; T; []; 
+[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;$
+ []
+
+<net.png, id=15, 185.19188pt x 67.0003pt>
+File: net.png Graphic file (type png)
+<use net.png>
+Package pdftex.def Info: net.png  used on input line 74.
+(pdftex.def)             Requested size: 111.11597pt x 40.20047pt.
+[3 <./net.png>]
+<cssys.png, id=29, 280.04625pt x 73.02281pt>
+File: cssys.png Graphic file (type png)
+<use cssys.png>
+Package pdftex.def Info: cssys.png  used on input line 80.
+(pdftex.def)             Requested size: 196.03102pt x 51.1156pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--104
+
+ []
+
+<cl2sv2.png, id=30, 412.54124pt x 320.69812pt>
+File: cl2sv2.png Graphic file (type png)
+<use cl2sv2.png>
+Package pdftex.def Info: cl2sv2.png  used on input line 106.
+(pdftex.def)             Requested size: 309.40517pt x 240.523pt.
+[4 <./cssys.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 109.
+
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
+<cl2sv2abs.png, id=35, 362.10281pt x 242.40562pt>
+File: cl2sv2abs.png Graphic file (type png)
+<use cl2sv2abs.png>
+Package pdftex.def Info: cl2sv2abs.png  used on input line 111.
+(pdftex.def)             Requested size: 260.7138pt x 174.53189pt.
+
+[5 <./cl2sv2.png> <./cl2sv2abs.png>]
+<IMG_7599.jpg, id=40, 2004.48875pt x 1386.17876pt>
+File: IMG_7599.jpg Graphic file (type jpg)
+<use IMG_7599.jpg>
+Package pdftex.def Info: IMG_7599.jpg  used on input line 118.
+(pdftex.def)             Requested size: 340.75858pt x 235.64726pt.
+ [6 <./IMG_7599.jpg>]
+<IMG_7653.jpg, id=45, 1361.085pt x 766.865pt>
+File: IMG_7653.jpg Graphic file (type jpg)
+<use IMG_7653.jpg>
+Package pdftex.def Info: IMG_7653.jpg  used on input line 123.
+(pdftex.def)             Requested size: 340.27042pt x 191.71577pt.
+ (document.bbl
+[7 <./IMG_7653.jpg>]) [8] (document.aux) ) 
+Here is how much of TeX's memory you used:
+ 3520 strings out of 492946
+ 50479 string characters out of 3126831
+ 124575 words of memory out of 3000000
+ 7350 multiletter control sequences out of 15000+200000
+ 15711 words of font info for 58 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,12n,27p,1307b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/DELL/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/DELL/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DEL
+L/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
+><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi5.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DELL/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/DELL/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/D
+ELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><
+C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy7.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmti10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/DELL/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/DELL/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/
+DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm
+10.pfb>
+Output written on document.pdf (8 pages, 962076 bytes).
+PDF statistics:
+ 107 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

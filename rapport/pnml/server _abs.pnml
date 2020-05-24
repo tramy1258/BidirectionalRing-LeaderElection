@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pnml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns="http://www.pnml.org/version-2009/grammar/pnml">
+  <net type="http://www.pnml.org/version-2009/grammar/ptnet" id="gen">
+    <name>
+      <text>gen</text>
+    </name>
+    <page id="toppage">
+      <name>
+        <text>gen</text>
+      </name>
+      <toolspecific tool="org.pnml.tools.epnk.diagraminfo" version="0.9.2">
+        <diagram visible="true" type="PNMLCoreModel" element="toppage" name="gen" measurementUnit="Pixel">
+          <children visible="true" type="2001" element="sys_req0">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="32896" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="36" y="180" width="25" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.0">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.0"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="8421504" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="36" y="162" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2001" element="sys_rep0">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="32896" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="156" y="180" width="25" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.1">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.1"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="8421504" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="144" y="162" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2001" element="sys_req1">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="32896" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="396" y="180" width="25" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.2">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.2"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="8421504" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="384" y="162" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2001" element="sys_rep1">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="32896" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="276" y="180" width="25" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.3">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.3"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="8421504" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="276" y="162" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2001" element="sv0">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="128" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="216" y="377" width="25" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.4">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.4"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="216" y="353" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.5">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.5"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="222" y="383" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2001" element="done0">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="128" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="216" y="293" width="25" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.6">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.6"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="216" y="269" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2003" element="reset0">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="128" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="168" y="329" width="34" height="13"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.7">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.7"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="168" y="305" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2001" element="sv0_c0">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="128" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="100" y="257" width="25" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.8">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.8"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="100" y="233" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2003" element="req0_c0">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="128" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="48" y="257" width="10" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.9">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.9"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="36" y="233" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2003" element="rep0-c0">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="128" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="168" y="257" width="10" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.10">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.10"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="156" y="233" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2001" element="sv0_c1">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="128" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="336" y="257" width="25" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.11">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.11"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="336" y="233" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2003" element="req0_c1">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="128" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="408" y="257" width="10" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.12">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.12"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="384" y="233" width="-1" height="-1"/>
+          </children>
+          <children visible="true" type="2003" element="rep0-c1">
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="128" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="288" y="257" width="10" height="25"/>
+          </children>
+          <children visible="true" type="2009" element="//@net.0/@page.0/@labelproxy.13">
+            <children xsi:type="notation:DecorationNode" visible="true" type="5004" element="//@net.0/@page.0/@labelproxy.13"/>
+            <styles xsi:type="notation:ShapeStyle" fontColor="0" fontName="Tahoma" fontHeight="9" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="16777215" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <layoutConstraint xsi:type="notation:Bounds" x="276" y="233" width="-1" height="-1"/>
+          </children>
+          <styles xsi:type="notation:DiagramStyle" pageX="0" pageY="0" pageWidth="100" pageHeight="100" description=""/>
+          <edges visible="true" type="4001" element="rs10" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.11" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.13">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="rs20" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.13" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.8">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="sva0of0_c0" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.8" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.17">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="sva1of0_c0" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.17" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.15">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="sva2of0_c0" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.15" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.19">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="sva3of0_c0" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.19" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.11">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="sva0of0_c1" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.8" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.23">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="sva1of0_c1" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.23" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.21">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="sva2of0_c1" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.21" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.25">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="sva3of0_c1" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.25" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.11">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="128" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="req_cl0sv0" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.0" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.17">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="11579568" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="rep_cl0sv0" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.19" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.2">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="11579568" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="req_cl1sv0" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.4" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.23">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="11579568" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+          <edges visible="true" type="4001" element="rep_cl1sv0" source="//@net.0/@page.0/@toolspecific.0/@diagram/@children.25" target="//@net.0/@page.0/@toolspecific.0/@diagram/@children.6">
+            <styles xsi:type="notation:ConnectorStyle" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="11579568" lineWidth="-1"/>
+            <bendpoints xsi:type="notation:RelativeBendpoints"/>
+          </edges>
+        </diagram>
+        <labelProxy label="//@net.0/@page.0/@object.0/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.1/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.2/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.3/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.4/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.4/@initialMarking"/>
+        <labelProxy label="//@net.0/@page.0/@object.5/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.6/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.9/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.10/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.11/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.16/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.17/@name"/>
+        <labelProxy label="//@net.0/@page.0/@object.18/@name"/>
+      </toolspecific>
+      <place id="sys_req0">
+        <name>
+          <graphics>
+            <line shape="line" color="#808080" width="1.0"/>
+            <offset x="-12.0" y="-30.0"/>
+            <font family="Tahoma" size="9pt"/>
+          </graphics>
+          <text>sys_req0</text>
+        </name>
+        <graphics>
+          <position x="48.5" y="192.5"/>
+          <dimension x="25.0" y="25.0"/>
+          <line shape="line" color="olive" width="1.0" style="solid"/>
+        </graphics>
+      </place>
+      <place id="sys_rep0">
+        <name>
+          <graphics>
+            <line shape="line" color="#808080" width="1.0"/>
+            <offset x="-24.0" y="-30.0"/>
+            <font family="Tahoma" size="9pt"/>
+          </graphics>
+          <text>sys_rep0</text>
+        </name>
+        <graphics>
+          <position x="168.5" y="192.5"/>
+          <dimension x="25.0" y="25.0"/>
+          <line shape="line" color="olive" width="1.0" style="solid"/>
+        </graphics>
+      </place>
+      <place id="sys_req1">
+        <name>
+          <graphics>
+            <line shape="line" color="#808080" width="1.0"/>
+            <offset x="-24.0" y="-30.0"/>
+            <font family="Tahoma" size="9pt"/>
+          </graphics>
+          <text>sys_req1</text>
+        </name>
+        <graphics>
+          <position x="408.5" y="192.5"/>
+          <dimension x="25.0" y="25.0"/>
+          <line shape="line" color="olive" width="1.0" style="solid"/>
+        </graphics>
+      </place>
+      <place id="sys_rep1">
+        <name>
+          <graphics>
+            <line shape="line" color="#808080" width="1.0"/>
+            <offset x="-12.0" y="-30.0"/>
+            <font family="Tahoma" size="9pt"/>
+          </graphics>
+          <text>sys_rep1</text>
+        </name>
+        <graphics>
+          <position x="288.5" y="192.5"/>
+          <dimension x="25.0" y="25.0"/>
+          <line shape="line" color="olive" width="1.0" style="solid"/>
+        </graphics>
+      </place>
+      <place id="sv0">
+        <name>
+          <graphics>
+            <offset x="-12.0" y="-36.0"/>
+          </graphics>
+          <text>sv0</text>
+        </name>
+        <graphics>
+          <position x="228.5" y="389.5"/>
+          <dimension x="25.0" y="25.0"/>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+        <initialMarking>
+          <graphics>
+            <offset x="-6.0" y="-6.0"/>
+          </graphics>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <place id="done0">
+        <name>
+          <graphics>
+            <offset x="-12.0" y="-36.0"/>
+          </graphics>
+          <text>done0</text>
+        </name>
+        <graphics>
+          <position x="228.5" y="305.5"/>
+          <dimension x="25.0" y="25.0"/>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </place>
+      <transition id="reset0">
+        <name>
+          <graphics>
+            <offset x="-17.0" y="-30.0"/>
+          </graphics>
+          <text>reset0</text>
+        </name>
+        <graphics>
+          <position x="185.0" y="335.5"/>
+          <dimension x="34.0" y="13.0"/>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </transition>
+      <arc id="rs10" source="done0" target="reset0">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <arc id="rs20" source="reset0" target="sv0">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <place id="sv0_c0">
+        <name>
+          <graphics>
+            <offset x="-12.0" y="-36.0"/>
+          </graphics>
+          <text>sv0_c0</text>
+        </name>
+        <graphics>
+          <position x="112.5" y="269.5"/>
+          <dimension x="25.0" y="25.0"/>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </place>
+      <transition id="req0_c0">
+        <name>
+          <graphics>
+            <offset x="-17.0" y="-36.0"/>
+          </graphics>
+          <text>req0_c0</text>
+        </name>
+        <graphics>
+          <position x="53.0" y="269.5"/>
+          <dimension x="10.0" y="25.0"/>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </transition>
+      <transition id="rep0-c0">
+        <name>
+          <graphics>
+            <offset x="-17.0" y="-36.0"/>
+          </graphics>
+          <text>rep0-c0</text>
+        </name>
+        <graphics>
+          <position x="173.0" y="269.5"/>
+          <dimension x="10.0" y="25.0"/>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </transition>
+      <arc id="sva0of0_c0" source="sv0" target="req0_c0">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <arc id="sva1of0_c0" source="req0_c0" target="sv0_c0">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <arc id="sva2of0_c0" source="sv0_c0" target="rep0-c0">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <arc id="sva3of0_c0" source="rep0-c0" target="done0">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <place id="sv0_c1">
+        <name>
+          <graphics>
+            <offset x="-12.0" y="-36.0"/>
+          </graphics>
+          <text>sv0_c1</text>
+        </name>
+        <graphics>
+          <position x="348.5" y="269.5"/>
+          <dimension x="25.0" y="25.0"/>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </place>
+      <transition id="req0_c1">
+        <name>
+          <graphics>
+            <offset x="-29.0" y="-36.0"/>
+          </graphics>
+          <text>req0_c1</text>
+        </name>
+        <graphics>
+          <position x="413.0" y="269.5"/>
+          <dimension x="10.0" y="25.0"/>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </transition>
+      <transition id="rep0-c1">
+        <name>
+          <graphics>
+            <offset x="-17.0" y="-36.0"/>
+          </graphics>
+          <text>rep0-c1</text>
+        </name>
+        <graphics>
+          <position x="293.0" y="269.5"/>
+          <dimension x="10.0" y="25.0"/>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </transition>
+      <arc id="sva0of0_c1" source="sv0" target="req0_c1">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <arc id="sva1of0_c1" source="req0_c1" target="sv0_c1">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <arc id="sva2of0_c1" source="sv0_c1" target="rep0-c1">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <arc id="sva3of0_c1" source="rep0-c1" target="done0">
+        <graphics>
+          <line shape="line" color="maroon" width="1.0" style="solid"/>
+        </graphics>
+      </arc>
+      <arc id="req_cl0sv0" source="sys_req0" target="req0_c0">
+        <graphics/>
+      </arc>
+      <arc id="rep_cl0sv0" source="rep0-c0" target="sys_rep0">
+        <graphics/>
+      </arc>
+      <arc id="req_cl1sv0" source="sys_req1" target="req0_c1">
+        <graphics/>
+      </arc>
+      <arc id="rep_cl1sv0" source="rep0-c1" target="sys_rep1">
+        <graphics/>
+      </arc>
+    </page>
+  </net>
+</pnml>
