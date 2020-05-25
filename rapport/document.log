@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2020.3.18)  24 MAY 2020 03:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2020.3.18)  25 MAY 2020 10:43
 entering extended mode
 **./document.tex
 (document.tex
@@ -59,6 +59,32 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty
+"
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.st
+y"
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count89
+\c@continuedfloat=\count90
+)
+("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption.
+sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count91
+\c@subtable=\count92
+)
 ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.st
 y"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -77,15 +103,15 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
  ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count89
-\calc@Bcount=\count90
-\calc@Adimen=\dimen105
-\calc@Bdimen=\dimen106
+\calc@Acount=\count93
+\calc@Bcount=\count94
+\calc@Adimen=\dimen112
+\calc@Bdimen=\dimen113
 \calc@Askip=\skip48
 \calc@Bskip=\skip49
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count91
+\calc@Ccount=\count95
 \calc@Cskip=\skip50
 )
 ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetup.s
@@ -105,46 +131,46 @@ Package: amstext 2000/06/29 v2.01 AMS text
 "
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
-\ex@=\dimen107
+\ex@=\dimen114
 ))
 ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen108
+\pmbraise@=\dimen115
 ) ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
 y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count92
+\inf@bad=\count96
 LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count93
-\leftroot@=\count94
+\uproot@=\count97
+\leftroot@=\count98
 LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count95
-\DOTSCASE@=\count96
+\classnum@=\count99
+\DOTSCASE@=\count100
 LaTeX Info: Redefining \ldots on input line 482.
 LaTeX Info: Redefining \dots on input line 485.
 LaTeX Info: Redefining \cdots on input line 606.
 \Mathstrutbox@=\box27
 \strutbox@=\box28
-\big@size=\dimen109
+\big@size=\dimen116
 LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count97
-\c@MaxMatrixCols=\count98
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
 \dotsspace@=\muskip10
-\c@parentequation=\count99
-\dspbrk@lvl=\count100
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
 \tag@help=\toks17
-\row@=\count101
-\column@=\count102
-\maxfields@=\count103
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
 \andhelp@=\toks18
-\eqnshift@=\dimen110
-\alignsep@=\dimen111
-\tagshift@=\dimen112
-\tagwidth@=\dimen113
-\totwidth@=\dimen114
-\lineht@=\dimen115
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
 \@envbody=\toks19
 \multlinegap=\skip52
 \multlinetaggap=\skip53
@@ -156,35 +182,35 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count104
-\l_MT_multwidth_dim=\dimen116
+\g_MT_multlinerow_int=\count108
+\l_MT_multwidth_dim=\dimen123
 \origjot=\skip54
-\l_MT_shortvdotswithinadjustabove_dim=\dimen117
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen118
-\l_MT_above_intertext_sep=\dimen119
-\l_MT_below_intertext_sep=\dimen120
-\l_MT_above_shortintertext_sep=\dimen121
-\l_MT_below_shortintertext_sep=\dimen122
+\l_MT_shortvdotswithinadjustabove_dim=\dimen124
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen125
+\l_MT_above_intertext_sep=\dimen126
+\l_MT_below_intertext_sep=\dimen127
+\l_MT_above_shortintertext_sep=\dimen128
+\l_MT_below_shortintertext_sep=\dimen129
 )
 ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty"
 Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
-\c@tracingmulticols=\count105
+\c@tracingmulticols=\count109
 \mult@box=\box29
-\multicol@leftmargin=\dimen123
-\c@unbalance=\count106
-\c@collectmore=\count107
-\doublecol@number=\count108
-\multicoltolerance=\count109
-\multicolpretolerance=\count110
-\full@width=\dimen124
-\page@free=\dimen125
-\premulticols=\dimen126
-\postmulticols=\dimen127
+\multicol@leftmargin=\dimen130
+\c@unbalance=\count110
+\c@collectmore=\count111
+\doublecol@number=\count112
+\multicoltolerance=\count113
+\multicolpretolerance=\count114
+\full@width=\dimen131
+\page@free=\dimen132
+\premulticols=\dimen133
+\postmulticols=\dimen134
 \multicolsep=\skip55
 \multicolbaselineskip=\skip56
 \partial@page=\box30
 \last@line=\box31
-\maxbalancingoverflow=\dimen128
+\maxbalancingoverflow=\dimen135
 \mult@rightbox=\box32
 \mult@grightbox=\box33
 \mult@gfirstbox=\box34
@@ -206,30 +232,30 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \@tempa=\box50
 \@tempa=\box51
 \@tempa=\box52
-\c@columnbadness=\count111
-\c@finalcolumnbadness=\count112
-\last@try=\dimen129
-\multicolovershoot=\dimen130
-\multicolundershoot=\dimen131
+\c@columnbadness=\count115
+\c@finalcolumnbadness=\count116
+\last@try=\dimen136
+\multicolovershoot=\dimen137
+\multicolundershoot=\dimen138
 \mult@nat@firstbox=\box53
 \colbreak@box=\box54
-\mc@col@check@num=\count113
+\mc@col@check@num=\count117
 ) (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-\c@maskedRefs=\count114
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+\c@maskedRefs=\count118
 
 ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\english.apc
 "
@@ -240,16 +266,16 @@ LaTeX Info: Redefining \BHBI on input line 130.
 ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
 f.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count115
-\scratchdimen=\dimen132
+\scratchcounter=\count119
+\scratchdimen=\dimen139
 \scratchbox=\box55
-\nofMPsegments=\count116
-\nofMParguments=\count117
+\nofMPsegments=\count120
+\nofMParguments=\count121
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count118
-\MPscratchDim=\dimen133
-\MPnumerator=\count119
-\makeMPintoPDFobject=\count120
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen140
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
 \everyMPtoPDFconversion=\toks22
 )
 ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
@@ -310,12 +336,14 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
 
 ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 
 ("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -323,110 +351,805 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/DELL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<net1.png, id=10, 185.19188pt x 67.0003pt>
-File: net1.png Graphic file (type png)
-<use net1.png>
-Package pdftex.def Info: net1.png  used on input line 28.
+<./images/net1.png, id=10, 185.19188pt x 67.0003pt>
+File: ./images/net1.png Graphic file (type png)
+<use ./images/net1.png>
+Package pdftex.def Info: ./images/net1.png  used on input line 32.
 (pdftex.def)             Requested size: 111.11597pt x 40.20047pt.
- [2 <./net1.png>]
-Overfull \hbox (3.17603pt too wide) in paragraph at lines 35--71
+ [2 <./images/net1.png>]
+! Undefined control sequence.
+\cite ->\def \BCAY 
+                   ##1##2##3{\BCA {##1}{##2}}\def \citeauthoryear ##1##2##3{...
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   3
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Undefined control sequence.
+\cite ->\def \BCAY ##1##2##3{\BCA 
+                                  {##1}{##2}}\def \citeauthoryear ##1##2##3{...
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   3
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Undefined control sequence.
+\cite ...##2}}\def \citeauthoryear ##1##2##3{\BCA 
+                                                  {##1}{##2}}\def \@BBOP {\B...
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Undefined control sequence.
+\cite ...ar ##1##2##3{\BCA {##1}{##2}}\def \@BBOP 
+                                                  {\BBOP }\def \@BBCP {\BBCP...
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\cite ...#1}{##2}}\def \@BBOP {\BBOP }\def \@BBCP 
+                                                  {\BBCP }\@ifnextchar <{\@c...
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Argument of \@sect has an extra }.
+<inserted text> 
+                \par 
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\normalfont \large \bfseries }{\@cite }\def \reserved@b {\@cite <>}\futurelet 
+\ETC.
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.39 	\subsection{Formal definitions\cite{b1}}
+                                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (3.17603pt too wide) in paragraph at lines 40--76
  [] \OT1/cmr/m/n/10 A P/T net can be hereby for-mally de-fined as \OT1/cmr/m/it
 /10 a tu-ple $\OMS/cmsy/m/n/10 N \OT1/cmr/m/n/10 = (\OML/cmm/m/it/10 P; T; []; 
 []\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;$
  []
 
-<net.png, id=15, 185.19188pt x 67.0003pt>
-File: net.png Graphic file (type png)
-<use net.png>
-Package pdftex.def Info: net.png  used on input line 74.
+<./images/net.png, id=15, 185.19188pt x 67.0003pt>
+File: ./images/net.png Graphic file (type png)
+<use ./images/net.png>
+Package pdftex.def Info: ./images/net.png  used on input line 80.
 (pdftex.def)             Requested size: 111.11597pt x 40.20047pt.
-[3 <./net.png>]
-<cssys.png, id=29, 280.04625pt x 73.02281pt>
-File: cssys.png Graphic file (type png)
-<use cssys.png>
-Package pdftex.def Info: cssys.png  used on input line 80.
-(pdftex.def)             Requested size: 196.03102pt x 51.1156pt.
+<./images/cssys.jpg, id=17, 373.395pt x 97.36375pt>
+File: ./images/cssys.jpg Graphic file (type jpg)
+<use ./images/cssys.jpg>
+Package pdftex.def Info: ./images/cssys.jpg  used on input line 88.
+(pdftex.def)             Requested size: 261.37471pt x 68.15414pt.
+[3 <./images/net.png>]
+<./images/cli2sv2_abs.png, id=30, 453.19313pt x 323.70938pt>
+File: ./images/cli2sv2_abs.png Graphic file (type png)
+<use ./images/cli2sv2_abs.png>
+Package pdftex.def Info: ./images/cli2sv2_abs.png  used on input line 95.
+(pdftex.def)             Requested size: 226.59601pt x 161.8543pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--104
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/client.png, id=31, 409.53pt x 111.41624pt>
+File: ./images/client.png Graphic file (type png)
+<use ./images/client.png>
+Package pdftex.def Info: ./images/client.png  used on input line 102.
+(pdftex.def)             Requested size: 286.66904pt x 77.99083pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/server.png, id=32, 628.59843pt x 175.40532pt>
+File: ./images/server.png Graphic file (type png)
+<use ./images/server.png>
+Package pdftex.def Info: ./images/server.png  used on input line 110.
+(pdftex.def)             Requested size: 502.87943pt x 140.32443pt.
+
+Overfull \hbox (110.10164pt too wide) in paragraph at lines 108--111
+ []|  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--104
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+[4 <./images/cssys.jpg>]
+<./images/cli2sv2_abs1.png, id=38, 362.85562pt x 295.85532pt>
+File: ./images/cli2sv2_abs1.png Graphic file (type png)
+<use ./images/cli2sv2_abs1.png>
+Package pdftex.def Info: ./images/cli2sv2_abs1.png  used on input line 117.
+(pdftex.def)             Requested size: 290.28488pt x 236.68456pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/client2.png, id=39, 403.5075pt x 164.86594pt>
+File: ./images/client2.png Graphic file (type png)
+<use ./images/client2.png>
+Package pdftex.def Info: ./images/client2.png  used on input line 124.
+(pdftex.def)             Requested size: 282.45332pt x 115.40535pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/Server2.png, id=40, 694.84593pt x 223.58531pt>
+File: ./images/Server2.png Graphic file (type png)
+<use ./images/Server2.png>
+Package pdftex.def Info: ./images/Server2.png  used on input line 131.
+(pdftex.def)             Requested size: 521.13316pt x 167.68855pt.
+
+Overfull \hbox (118.35538pt too wide) in paragraph at lines 130--132
+ []|  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--104
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./images/cli2sv2_abs.png> <./images/client.png>]
+<./images/cli2sv2.png, id=45, 414.04688pt x 410.2828pt>
+File: ./images/cli2sv2.png Graphic file (type png)
+<use ./images/cli2sv2.png>
+Package pdftex.def Info: ./images/cli2sv2.png  used on input line 138.
+(pdftex.def)             Requested size: 289.83083pt x 287.196pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--169
 
  []
 
-<cl2sv2.png, id=30, 412.54124pt x 320.69812pt>
-File: cl2sv2.png Graphic file (type png)
-<use cl2sv2.png>
-Package pdftex.def Info: cl2sv2.png  used on input line 106.
-(pdftex.def)             Requested size: 309.40517pt x 240.523pt.
-[4 <./cssys.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 109.
+[6 <./images/server.png> <./images/cli2sv2.png>] [7 <./images/cli2sv2_abs1.png>
+]
+! Undefined control sequence.
+\cite ->\def \BCAY 
+                   ##1##2##3{\BCA {##1}{##2}}\def \citeauthoryear ##1##2##3{...
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-("C:\Users\DELL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
-<cl2sv2abs.png, id=35, 362.10281pt x 242.40562pt>
-File: cl2sv2abs.png Graphic file (type png)
-<use cl2sv2abs.png>
-Package pdftex.def Info: cl2sv2abs.png  used on input line 111.
-(pdftex.def)             Requested size: 260.7138pt x 174.53189pt.
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-[5 <./cl2sv2.png> <./cl2sv2abs.png>]
-<IMG_7599.jpg, id=40, 2004.48875pt x 1386.17876pt>
-File: IMG_7599.jpg Graphic file (type jpg)
-<use IMG_7599.jpg>
-Package pdftex.def Info: IMG_7599.jpg  used on input line 118.
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   3
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Undefined control sequence.
+\cite ->\def \BCAY ##1##2##3{\BCA 
+                                  {##1}{##2}}\def \citeauthoryear ##1##2##3{...
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   3
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Undefined control sequence.
+\cite ...##2}}\def \citeauthoryear ##1##2##3{\BCA 
+                                                  {##1}{##2}}\def \@BBOP {\B...
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Undefined control sequence.
+\cite ...ar ##1##2##3{\BCA {##1}{##2}}\def \@BBOP 
+                                                  {\BBOP }\def \@BBCP {\BBCP...
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\cite ...#1}{##2}}\def \@BBOP {\BBOP }\def \@BBCP 
+                                                  {\BBCP }\@ifnextchar <{\@c...
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Argument of \@sect has an extra }.
+<inserted text> 
+                \par 
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\normalfont \normalsize \bfseries }{\@cite }\def \reserved@b {\@cite \ETC.
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.172 	\subsubsection{The algorithm \cite{b2}}
+                                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+[8 <./images/client2.png> <./images/Server2.png>]
+<./images/Nlogn.png, id=59, 709.14937pt x 703.12688pt>
+File: ./images/Nlogn.png Graphic file (type png)
+<use ./images/Nlogn.png>
+Package pdftex.def Info: ./images/Nlogn.png  used on input line 175.
+(pdftex.def)             Requested size: 354.57382pt x 351.56258pt.
+
+Overfull \hbox (9.57382pt too wide) in paragraph at lines 175--176
+ [] 
+ []
+
+[9 <./images/Nlogn.png>]
+<./images/IMG_7599.jpg, id=64, 2004.48875pt x 1386.17876pt>
+File: ./images/IMG_7599.jpg Graphic file (type jpg)
+<use ./images/IMG_7599.jpg>
+Package pdftex.def Info: ./images/IMG_7599.jpg  used on input line 180.
 (pdftex.def)             Requested size: 340.75858pt x 235.64726pt.
- [6 <./IMG_7599.jpg>]
-<IMG_7653.jpg, id=45, 1361.085pt x 766.865pt>
-File: IMG_7653.jpg Graphic file (type jpg)
-<use IMG_7653.jpg>
-Package pdftex.def Info: IMG_7653.jpg  used on input line 123.
+
+Overfull \hbox (33.50401pt too wide) in paragraph at lines 185--186
+ [] \OT1/cmr/m/n/10 Upon re-ceiv-ing START() from ex-te-rior, a process$[]$ can
+ send $\OML/cmm/m/it/10 ELECTION\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 id[]; \OT1/cm
+r/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)$
+ []
+
+
+Overfull \hbox (22.67404pt too wide) in paragraph at lines 185--186
+\OT1/cmr/m/n/10 to $\OML/cmm/m/it/10 left[]$ \OT1/cmr/m/n/10 and $\OML/cmm/m/it
+/10 right[]$ \OT1/cmr/m/n/10 (places $[]$ and $[]$)
+ []
+
+<./images/IMG_7684.jpg, id=65, 2004.48875pt x 1386.17876pt>
+File: ./images/IMG_7684.jpg Graphic file (type jpg)
+<use ./images/IMG_7684.jpg>
+Package pdftex.def Info: ./images/IMG_7684.jpg  used on input line 188.
+(pdftex.def)             Requested size: 340.75858pt x 235.64726pt.
+[10 <./images/IMG_7599.jpg>]
+<./images/process_init_2.png, id=70, 402.75468pt x 318.43968pt>
+File: ./images/process_init_2.png Graphic file (type png)
+<use ./images/process_init_2.png>
+Package pdftex.def Info: ./images/process_init_2.png  used on input line 194.
+(pdftex.def)             Requested size: 281.92635pt x 222.90625pt.
+ [11 <./images/IMG_7684.jpg> <./images/process_init_2.png>]
+<./images/election_cas1.png, id=75, 368.1253pt x 185.94469pt>
+File: ./images/election_cas1.png Graphic file (type png)
+<use ./images/election_cas1.png>
+Package pdftex.def Info: ./images/election_cas1.png  used on input line 205.
+(pdftex.def)             Requested size: 220.87688pt x 111.56766pt.
+
+Overfull \hbox (10.59909pt too wide) in paragraph at lines 204--206
+ []|  [] 
+ []
+
+<./images/election_cas2.png, id=76, 333.49594pt x 181.42781pt>
+File: ./images/election_cas2.png Graphic file (type png)
+<use ./images/election_cas2.png>
+Package pdftex.def Info: ./images/election_cas2.png  used on input line 213.
+(pdftex.def)             Requested size: 200.09909pt x 108.85751pt.
+
+Overfull \hbox (49.8213pt too wide) in paragraph at lines 212--214
+ []|  [] 
+ []
+
+<./images/election_cas3.png, id=77, 336.50719pt x 130.23656pt>
+File: ./images/election_cas3.png Graphic file (type png)
+<use ./images/election_cas3.png>
+Package pdftex.def Info: ./images/election_cas3.png  used on input line 221.
+(pdftex.def)             Requested size: 201.90585pt x 78.14253pt.
+<./images/election_cas4.png, id=78, 336.50719pt x 183.68625pt>
+File: ./images/election_cas4.png Graphic file (type png)
+<use ./images/election_cas4.png>
+Package pdftex.def Info: ./images/election_cas4.png  used on input line 228.
+(pdftex.def)             Requested size: 201.90585pt x 110.21259pt.
+
+Overfull \hbox (51.62807pt too wide) in paragraph at lines 227--229
+ []|  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--232
+
+ []
+
+[12 <./images/election_cas1.png> <./images/election_cas2.png> <./images/electio
+n_cas3.png> <./images/election_cas4.png>]
+<./images/reply_cas1.png, id=89, 297.36093pt x 190.46156pt>
+File: ./images/reply_cas1.png Graphic file (type png)
+<use ./images/reply_cas1.png>
+Package pdftex.def Info: ./images/reply_cas1.png  used on input line 246.
+(pdftex.def)             Requested size: 178.41792pt x 114.2778pt.
+<./images/reply_cas2.png, id=90, 305.64188pt x 180.675pt>
+File: ./images/reply_cas2.png Graphic file (type png)
+<use ./images/reply_cas2.png>
+Package pdftex.def Info: ./images/reply_cas2.png  used on input line 254.
+(pdftex.def)             Requested size: 183.38652pt x 108.40582pt.
+
+Overfull \hbox (57.61084pt too wide) in paragraph at lines 253--255
+ []|  [] 
+ []
+
+<./images/reply_cas3.png, id=91, 472.01344pt x 339.51843pt>
+File: ./images/reply_cas3.png Graphic file (type png)
+<use ./images/reply_cas3.png>
+Package pdftex.def Info: ./images/reply_cas3.png  used on input line 262.
+(pdftex.def)             Requested size: 283.21025pt x 203.71262pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--266
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--266
+
+ []
+
+<./images/elected_cas1.png, id=92, 444.15938pt x 169.38281pt>
+File: ./images/elected_cas1.png Graphic file (type png)
+<use ./images/elected_cas1.png>
+Package pdftex.def Info: ./images/elected_cas1.png  used on input line 277.
+(pdftex.def)             Requested size: 266.49767pt x 101.63046pt.
+<./images/elected_cas2.png, id=93, 245.41687pt x 181.42781pt>
+File: ./images/elected_cas2.png Graphic file (type png)
+<use ./images/elected_cas2.png>
+Package pdftex.def Info: ./images/elected_cas2.png  used on input line 285.
+(pdftex.def)             Requested size: 147.25125pt x 108.85751pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--289
+
+ []
+
+[13 <./images/reply_cas1.png> <./images/reply_cas2.png> <./images/reply_cas3.pn
+g>]
+
+pdfTeX warning: pdflatex.exe (file ./images/ring2_abs.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<./images/ring2_abs.pdf, id=101, 614.295pt x 794.97pt>
+File: ./images/ring2_abs.pdf Graphic file (type pdf)
+<use ./images/ring2_abs.pdf>
+Package pdftex.def Info: ./images/ring2_abs.pdf  used on input line 300.
+(pdftex.def)             Requested size: 552.86038pt x 354.11885pt.
+
+Overfull \hbox (110.0826pt too wide) in paragraph at lines 299--301
+ |  [] 
+ []
+
+[14 <./images/elected_cas1.png> <./images/elected_cas2.png>]
+<./images/ring_expanded.png, id=106, 607.51968pt x 245.41687pt>
+File: ./images/ring_expanded.png Graphic file (type png)
+<use ./images/ring_expanded.png>
+Package pdftex.def Info: ./images/ring_expanded.png  used on input line 305.
+(pdftex.def)             Requested size: 303.7591pt x 122.70813pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./images/ring2.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<./images/ring2.pdf, id=107, 614.295pt x 794.97pt>
+File: ./images/ring2.pdf Graphic file (type pdf)
+<use ./images/ring2.pdf>
+Package pdftex.def Info: ./images/ring2.pdf  used on input line 310.
+(pdftex.def)             Requested size: 614.29349pt x 508.8993pt.
+
+Overfull \hbox (151.5157pt too wide) in paragraph at lines 309--311
+ |  [] 
+ []
+
+[15 <./images/ring2_abs.pdf> <./images/ring_expanded.png>]
+Overfull \hbox (35.3489pt too wide) in paragraph at lines 313--330
+\OMS/cmsy/m/n/10 $ \OT1/cmtt/m/n/10 election[]id[]r[]d/reply[]id[]r[]to[]right
+/left[]i\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 p[]$ \OT1/cmr/m/n/10 ready to send 
+ELEC-TION(id,r,d)/
+ []
+
+
+Overfull \hbox (37.2655pt too wide) in paragraph at lines 313--330
+\OMS/cmsy/m/n/10 $ \OT1/cmtt/m/n/10 rcv[]right/left[]election[]id[]r[]d/reply[
+]id[]r[]i\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 p[]$ \OT1/cmr/m/n/10 just re-ceive
+d ELEC-TION(id,r,d)/
+ []
+
+
+Overfull \hbox (3.51648pt too wide) in paragraph at lines 313--330
+\OMS/cmsy/m/n/10 $ \OT1/cmtt/m/n/10 reply[]i[]r[]right/left[]i\OT1/cmr/m/n/10 
+, $\OML/cmm/m/it/10 p[]$ \OT1/cmr/m/n/10 has al-ready re-ceived RE-PLY(i,r) fro
+m $\OML/cmm/m/it/10 right[]$\OT1/cmr/m/n/10 /$\OML/cmm/m/it/10 left[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--330
+
+ []
+
+
+Overfull \hbox (27.4599pt too wide) in paragraph at lines 313--330
+\OMS/cmsy/m/n/10 $ \OT1/cmtt/m/n/10 election[]id[]r[]d/reply[]id[]r[]from[]rig
+ht/left[]i\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 p[]$ \OT1/cmr/m/n/10 re-ceiv-ing 
+ELEC-TION(id,r,d)/
+ []
+
+
+Overfull \hbox (21.34888pt too wide) in paragraph at lines 313--330
+\OMS/cmsy/m/n/10 $ \OT1/cmtt/m/n/10 hdl[]right/left[]election[]id[]r[]d/reply[
+]id[]r[]i\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 p[]$ \OT1/cmr/m/n/10 han-dling ELE
+C-TION(id,r,d)/
+ []
+
+[16 <./images/ring2.pdf>]
+! Undefined control sequence.
+\cite ->\def \BCAY 
+                   ##1##2##3{\BCA {##1}{##2}}\def \citeauthoryear ##1##2##3{...
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   3
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Undefined control sequence.
+\cite ->\def \BCAY ##1##2##3{\BCA 
+                                  {##1}{##2}}\def \citeauthoryear ##1##2##3{...
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   3
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Undefined control sequence.
+\cite ...##2}}\def \citeauthoryear ##1##2##3{\BCA 
+                                                  {##1}{##2}}\def \@BBOP {\B...
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Undefined control sequence.
+\cite ...ar ##1##2##3{\BCA {##1}{##2}}\def \@BBOP 
+                                                  {\BBOP }\def \@BBCP {\BBCP...
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\cite ...#1}{##2}}\def \@BBOP {\BBOP }\def \@BBCP 
+                                                  {\BBCP }\@ifnextchar <{\@c...
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Argument of \@sect has an extra }.
+<inserted text> 
+                \par 
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\normalfont \normalsize \bfseries }{\@cite }\def \reserved@b {\@cite \ETC.
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.331 	\subsubsection{The algorithm \cite{b2}}
+                                              
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+[17]
+<./images/IMG_7653.jpg, id=141, 1361.085pt x 766.865pt>
+File: ./images/IMG_7653.jpg Graphic file (type jpg)
+<use ./images/IMG_7653.jpg>
+Package pdftex.def Info: ./images/IMG_7653.jpg  used on input line 334.
 (pdftex.def)             Requested size: 340.27042pt x 191.71577pt.
- (document.bbl
-[7 <./IMG_7653.jpg>]) [8] (document.aux) ) 
+ (document.bbl) [18 <./images/IMG_7653.jpg>] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 3520 strings out of 492946
- 50479 string characters out of 3126831
- 124575 words of memory out of 3000000
- 7350 multiletter control sequences out of 15000+200000
- 15711 words of font info for 58 fonts, out of 3000000 for 9000
+ 4867 strings out of 492946
+ 75891 string characters out of 3126831
+ 146756 words of memory out of 3000000
+ 8662 multiletter control sequences out of 15000+200000
+ 19241 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,27p,1307b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/DELL/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/DELL/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DEL
-L/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
-><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmmi5.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DELL/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/DELL/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/D
-ELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><
-C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsy7.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmti10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/DELL/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/DELL/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/
-DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm
-10.pfb>
-Output written on document.pdf (8 pages, 962076 bytes).
+ 41i,12n,40p,1307b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/DELL/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Us
+ers/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbxti10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/DELL/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/DELL/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/DELL
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:
+/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/DELL/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/DELL/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/DELL/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Us
+ers/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9
+.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmti12.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/DELL/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/DELL/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/DELL/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+>
+Output written on document.pdf (18 pages, 1784181 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
+ 213 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 
