@@ -19,7 +19,7 @@ public class Test {
 		if (nb <= 3) {
 			ring.generate_ring(nb, 450*nb, red);
 		} else {
-			ring.generate_ring(nb, 1000, red);
+			ring.generate_ring(nb, 1200, red);
 		}
 
 	}
